@@ -1,0 +1,9 @@
+Name,Sex,Age,Class,Survived
+John,male,35,1,0
+David,male,28,2,0
+Mike,male,40,3,1
+Sara,female,22,1,0
+Anna,female,30,2,0
+Maya,female,18,3,0
+Rose,female,25,1,1
+Tom,male,45,1,0
